@@ -2,3 +2,14 @@ hacking/cs/hackc
 kos/bitcoin code/live coding
 make blog on medium or sbvtle make dope, art, code (JKD, German music, electronic etc., art, bio-art, frank ocean orange pyramids, make script to print orange pyramids)
 Yao Shu
+
+http://www.factmag.com/2013/09/15/20-best-krautrock-records-ever-made/21/
+
+http://www.languagedaily.com/learn-german/vocabulary/common-german-words
+load 1000 words in csv and do data analysis german vocabulary
+
+JKD
+http://en.wikipedia.org/wiki/Jeet_Kune_Do
+
+Inline-style: 
+![alt text](https://github.com/yaoshux/notes/edit/master/notes1.txt/
