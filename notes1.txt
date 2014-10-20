@@ -21,3 +21,8 @@ https://crate.io
 
 launch pronto to guage interest and other ideas for free
 http://launchrock.co/#
+
+https://github.com/DecentralBank/decentralj
+
+Dockerize Bitcoin
+base image is bitcoin and other containers are isolated features depending on context
