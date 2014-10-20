@@ -18,3 +18,6 @@ http://www.myki.co
 
 next database
 https://crate.io
+
+launch pronto to guage interest and other ideas for free
+http://launchrock.co/#
