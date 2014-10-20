@@ -10,3 +10,6 @@ load 1000 words in csv and do data analysis german vocabulary
 
 JKD
 http://en.wikipedia.org/wiki/Jeet_Kune_Do
+
+rapper persona
+Daz Swit
